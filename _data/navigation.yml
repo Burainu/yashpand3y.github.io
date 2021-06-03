@@ -58,13 +58,13 @@
   - title: "Week 9 Demo"
     url: "/builds/week9demo/"
 
--title: "Concept Art"
-url: "/art/"
-side: left
+- title: "Concept Art"
+  url: "/art/"
+  side: left
 
--title: "Meet your Developers"
-url: "/meetdevs/"
-side: left
+- title: "Meet your Developers"
+  url: "/meetdevs/"
+  side: left
 
 - title: "Search"
   url: "/search/"
