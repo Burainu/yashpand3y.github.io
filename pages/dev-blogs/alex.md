@@ -5,8 +5,8 @@ title: "Alexander Ho Dev Blogs"
 subheadline: "Weekly Dev Blog Updates from Alex!"
 teaser: "Weekly updates and screenshots are documented here"
 header: 
-    image_fullwidth: "Momentum/banner_basic.png"
-permalink: "/dev-blogs/alex"
+    image_fullwidth: "banner_basic.png"
+permalink: "/dev-blogs/alex/"
 ---
 
 ## Welcome to Alexander Ho's Personal Production Journal
