@@ -2,9 +2,6 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
 
 - title: "Dev Blogs"
   url: "/dev-blogs/"
