@@ -16,7 +16,7 @@ widget2:
   title: "Latest Demo (week 9)"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: week9_demo_302x182.png
-  text: 'Be one of our pre-alpha testers! Click this link to jump into the latest version of our available build. Click <a href='https://yashpand3y.github.io/builds/'>here</a> to play one of our previous builds.'
+  text: 'Be one of our pre-alpha testers! Click this link to jump into the latest version of our available build.'
 widget3:
   title: "GitHub"
   url: 'https://github.com/Phlow/feeling-responsive'
