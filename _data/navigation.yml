@@ -1,4 +1,4 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
@@ -6,65 +6,58 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Dev Blogs"
+  url: "/dev-blogs/"
   side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  dropdown: 
+  - title: "Alexander Ho"
+    url: "/dev-blogs/alex/"
+  - title: "Diego Vardona"
+    url: "/dev-blogs/diego/"
+  - title: "Kendal Mitchell"
+    url: "/dev-blogs/kendal/"
+  - title: "Mathew Cipriano"
+    url: "/dev-blogs/mathew/"
+  - title: "Michael Dardour"
+    url: "/dev-blogs/michael/"
+  - title: "Ravi Patel"
+    url: "/dev-blogs/ravi/"
+  - title: "Soren Strnisa"
+    url: "/dev-blogs/soren/"
+  - title: "Thuan Phung"
+    url: "/dev-blogs/thuan/"
+  - title: "Yash Pandey"
+    url: "/dev-blogs/yash/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Builds"
+  url: "/builds/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Tech Demo"
+    url: "/builds/techdemo/"
+  - title: "Week 4 Demo"
+    url: "/builds/week4demo/"
+  - title: "Week 5 Demo"
+    url: "/builds/week5demo/"
+  - title: "Week 6 Demo"
+    url: "/builds/week6demo/"
+  - title: "Week 6.5 Demo"
+    url: "/builds/week6demo2/"
+  - title: "Week 7 Demo"
+    url: "/builds/week7demo/"
+  - title: "Week 7.5 Demo"
+    url: "/builds/week7demo2/"
+  - title: "Week 7 Small Demo"
+    url: "/builds/week7demosmall/"
+  - title: "Week 8 Demo"
+    url: "/builds/week8demo/"
+  - title: "Week 8 Part 2 Demo"
+    url: "/builds/week8demo2/"
+  - title: "Week 8 Fun Lights Demo"
+    url: "/builds/week8lightsdemo/"
+  - title: "Week 9 Demo"
+    url: "/builds/week9demo/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
