@@ -13,15 +13,15 @@ widget1:
   image: unity_logo_302x182.png
   text: 'Follow along with our development process with weekly blog updates from the developers of the game itself! Watch as the game development picks up <em>Momentum</em> and brings Hiro to life in his quest to save the world.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Latest Demo (week 9)"
+  url: 'https://yashpand3y.github.io/builds/week9demo/'
+  image: week9_demo_302x182.png
+  text: 'Be one of our pre-alpha testers! Click this link to jump into the latest version of our available build. Click <a href='https://yashpand3y.github.io/builds/'>here</a> to play one of our previous builds.'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "GitHub"
+  url: 'https://github.com/hoalexander44/MomentumGame'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '<em>Momentum</em> repository can be viewed by clicking here! Follow along with the devs to get an idea of what this game looks like behind the scenes.'
 #
 # Use the call for action to show a button on the frontpage
 #
