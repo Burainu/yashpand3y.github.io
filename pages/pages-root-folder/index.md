@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: momentum_main_screen_1600x503.png
 widget1:
-  title: "Blog & Portfolio"
+  title: "Dev Blog Updates!"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  image: unity_logo_302x182.png
+  text: 'Follow along with our development process with weekly blog updates from the developers of the game itself! Watch as the game development picks up <em>Momentum</em> and brings Hiro to life in his quest to save the world.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
