@@ -5,17 +5,75 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-Yash Pandey: # replace this with your info
-  name: "Yash Pandey"
-  siterole: "webmaster, game developer, ai developer"
-  uri: 
-  email:
-  twitter: 
-Momentum:
+
+Momentum: # replace this with your info 
   name: "Momentum"
   siterole: "admin"
   uri:
   email:
   twitter:
+
+Alexander Ho:
+  name: "Alexander Ho"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
+Diego Vardona:
+  name: "Diego Vardona"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
+Kendal Mitchell: 
+  name: "Kendal Mitchell"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
+Mathew Cipriano:
+  name: "Mathew Cipriano"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
   
+Michael Dardour:
+  name: "Michael Dardour"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
+Ravi Patel:
+  name: "Ravi Patel"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
+Soren Strnisa:
+  name: "Soren Strnisa"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
+Thuan Phung:
+  name: "Thuan Phung"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
+Yash Pandey:
+  name: "Yash Pandey"
+  siterole: ""
+  uri: 
+  email:
+  twitter:
+
 # you can add more authors here
