@@ -169,4 +169,4 @@ Upcoming: Intense bug fixing and polishing. Get the abilitites tutorials in.
 
 ### Week 10
 
-[back](Blogs.html)
+[back](index.html)
