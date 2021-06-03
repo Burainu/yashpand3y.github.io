@@ -38,7 +38,7 @@ improve_content: https://https://github.com/yashpand3y/yashpand3y.github.io/edit
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://https://raw.githubusercontent.com/yashpand3y/yashpand3y.github.io/main/images/'
+urlimg: 'https://raw.githubusercontent.com/yashpand3y/yashpand3y.github.io/main/images/'
 
 
 # Logo size is 600x80 pixels
