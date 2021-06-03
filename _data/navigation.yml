@@ -2,7 +2,6 @@
   url: "/"
   side: left
 
-
 - title: "Dev Blogs"
   url: "/dev-blogs/"
   side: left
@@ -54,6 +53,10 @@
     url: "/builds/week8lightsdemo/"
   - title: "Week 9 Demo"
     url: "/builds/week9demo/"
+
+-title: "Playtest Survey"
+  url: "https://forms.gle/tJwHT4rGBceajPcBA"
+  side: left
 
 - title: "Concept Art"
   url: "/art/"
