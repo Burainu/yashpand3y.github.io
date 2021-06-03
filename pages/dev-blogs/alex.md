@@ -5,7 +5,7 @@ title: "Alexander Ho Dev Blogs"
 subheadline: "Weekly Dev Blog Updates from Alex!"
 teaser: "Weekly updates and screenshots are documented here"
 header: 
-    image_fullwidth: "banner_basic.png"
+    image_fullwidth: "banner_970x321.png"
 permalink: "/dev-blogs/alex/"
 ---
 
