@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Follow the developers!"
-teaser: "Find out what each developer has been working on through these links!"
 title: "Momentum Dev Blogs"
+teaser: "Find out what each developer has been working on through these links!"
 permalink: "/devblogs/"
 ---
 [Alexander_Ho](https://yashpand3y.github.io/dev-blogs/alex/)
@@ -14,4 +14,3 @@ permalink: "/devblogs/"
 [Soren_Strnisa](https://yashpand3y.github.io/dev-blogs/soren)
 [Thuan_Phung](https://yashpand3y.github.io/dev-blogs/thuan/)
 [Yash_Pandey](https://yashpand3y.github.io/dev-blogs/yash/)
-    

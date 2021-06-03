@@ -6,7 +6,7 @@ subheadline: "Weekly Dev Blog Updates from Matthew!"
 teaser: "Weekly updates and screenshots are documented here"
 header: 
     image_fullwidth: "momentum_banner_970x321.png"
-permalink: "/dev-blogs/matthew/"
+permalink: "/dev-blogs/mathew/"
 ---
 ## Welcome to Mathew Cipriano's Personal Production Journal
 
