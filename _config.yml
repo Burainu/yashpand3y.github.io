@@ -30,14 +30,14 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://https://github.com/yashpand3y/yashpand3y.github.io/edit/main
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
 #
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#
+#       works as reference_to_repo/name_of_repo/images/
 urlimg: 'https://yashpand3y.github.io/yashpand3y.github.io/images/'
 
 
